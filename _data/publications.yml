@@ -1,0 +1,21 @@
+main:
+
+  - title: "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning"
+    authors: Zhiyang Xu, Chao Feng, Rulin Shao, Trevor Ashby, Ying Shen, <strong>Di Jin</strong>, Yu Cheng, Qifan Wang, Lifu Huang
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2402.11690.pdf
+    code: https://huggingface.co/datasets/Vision-Flan/vision-flan_191-task_1k
+    image: ./assets/img/vision_flan_logo.jpg
+    notes: In Submission
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
